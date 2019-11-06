@@ -3,7 +3,6 @@
     {
       "id": 0,
       "name": "Uthappizza",
-      // "image": "images/uthappizza.png",
       "image": "/blob/master/images/uthappizza.png?raw=true",
       "category": "mains",
       "label": "Hot",
@@ -14,7 +13,6 @@
     {
       "id": 1,
       "name": "Zucchipakoda",
-      //"image": "images/zucchipakoda.png",
       "image": "../blob/master/images/zucchipakoda.png?raw=true",
       "category": "appetizer",
       "label": "",
