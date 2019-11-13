@@ -13,7 +13,7 @@
     {
       "id": 1,
       "name": "Zucchipakoda",
-      "image": "images/zucchipakoda.png",
+      "image": "blob/master/images/zucchipakoda.png?raw=true",
       "category": "appetizer",
       "label": "",
       "price": "1.99",
